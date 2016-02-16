@@ -10,3 +10,8 @@ About this GitHub Org(anization)
 
 add meta info here
 
+```
+site.github:
+{{ site.github | jsonify }}
+```
+
