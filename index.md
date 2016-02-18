@@ -4,7 +4,7 @@ title: Welcome
 
 ## GitHub Pages Plugins Examples
 
-### Gist Tag - `{{raw}}{{gist}}{{endraw}}`
+### Gist Tag - {{raw}}`{{gist}}`{{endraw}}
 
 - [Gist Tag Examples](gist)
 
