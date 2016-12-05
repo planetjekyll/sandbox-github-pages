@@ -3,13 +3,10 @@ title: Emoji Samples
 ---
 
 
-I give this plugin two :+1:!
+I give the jemoji plugin two :+1:! Use the shortcode `:+1:` for :+1:.
 
 
-Reference:
-
-- :+1: `:+1:`
-
+More emoji shortcodes:
 
 Classic Smileys
 
