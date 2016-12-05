@@ -13,7 +13,6 @@ Reference:
 
 Classic Smileys
 
-:simple_smile:
 :smile:
 :smiley:
 :joy:
@@ -33,13 +32,38 @@ Classic Smileys
 :imp:
 :smiling_imp:
 
-
+```
+:smile:
+:smiley:
+:joy:
+:flushed:
+:innocent:
+:heart_eyes:
+:kissing_heart:
+:sleeping:
+:sunglasses:
+:cry:
+:sob:
+:wink:
+:confused:
+:unamused:
+:angry:
+:rage:
+:imp:
+:smiling_imp:
+```
 
 See no evil, hear no evil, speak no evil.
 
 :see_no_evil:
 :hear_no_evil:
 :speak_no_evil:
+
+```
+:see_no_evil:
+:hear_no_evil:
+:speak_no_evil:
+```
 
 
 
