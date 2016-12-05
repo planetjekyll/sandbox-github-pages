@@ -2,6 +2,11 @@
 title: Debug Settings
 ---
 
+## Site Settings
+
+- site.url: >{{ site.url }}<
+- site.baseurl: >{{ site.baseurl }}<
+
 ## Markdown Settings
 
 {{ site.markdown | jsonify }}
