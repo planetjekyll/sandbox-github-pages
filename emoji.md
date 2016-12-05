@@ -10,6 +10,27 @@ More emoji shortcodes:
 
 Classic Smileys
 
+```
+:smile:
+:smiley:
+:joy:
+:flushed:
+:innocent:
+:heart_eyes:
+:kissing_heart:
+:sleeping:
+:sunglasses:
+:cry:
+:sob:
+:wink:
+:confused:
+:unamused:
+:angry:
+:rage:
+:imp:
+:smiling_imp:
+```
+
 :smile:
 :smiley:
 :joy:
@@ -29,47 +50,38 @@ Classic Smileys
 :imp:
 :smiling_imp:
 
-```
-:smile:
-:smiley:
-:joy:
-:flushed:
-:innocent:
-:heart_eyes:
-:kissing_heart:
-:sleeping:
-:sunglasses:
-:cry:
-:sob:
-:wink:
-:confused:
-:unamused:
-:angry:
-:rage:
-:imp:
-:smiling_imp:
-```
 
 See no evil, hear no evil, speak no evil.
 
-:see_no_evil:
-:hear_no_evil:
-:speak_no_evil:
-
 ```
 :see_no_evil:
 :hear_no_evil:
 :speak_no_evil:
 ```
 
+:see_no_evil:
+:hear_no_evil:
+:speak_no_evil:
 
 
 
 Earth & Moon
 
 :earth_americas:
+:earth:
 :earth_africa:
 :earth_asia:
+
+```
+:new_moon:
+:waxing_crescent_moon:
+:first_quarter_moon:
+:waxing_gibbous_moon:
+:full_moon:
+:waning_gibbous_moon:
+:last_quarter_moon:
+:waning_crescent_moon:
+```
 
 :new_moon:
 :waxing_crescent_moon:
@@ -89,6 +101,13 @@ Weather
 
 
 Christmas Season
+
+```
+:bell:
+:santa:
+:snowman:
+:christmas_tree:
+```
 
 :bell:
 :bell:
