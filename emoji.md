@@ -44,7 +44,7 @@ See no evil, hear no evil, speak no evil.
 
 
 
-
+Earth & Moon
 
 :earth_americas:
 :earth_africa:
@@ -59,6 +59,7 @@ See no evil, hear no evil, speak no evil.
 :last_quarter_moon:
 :waning_crescent_moon:
 
+Weather
 
 :sunny:
 :partly_sunny:
@@ -66,37 +67,11 @@ See no evil, hear no evil, speak no evil.
 :snowflake:
 
 
-
 Christmas Season
 
 :bell:
-:bell:
-:bell:
-:bell:
-:bell:
-:bell:
-
-
 :santa:
-:santa:
-:santa:
-:santa:
-:santa:
-:santa:
-
-
 :snowman:
-:snowman:
-:snowman:
-:snowman:
-:snowman:
-:snowman:
-
-:christmas_tree:
-:christmas_tree:
-:christmas_tree:
-:christmas_tree:
-:christmas_tree:
 :christmas_tree:
 
 
