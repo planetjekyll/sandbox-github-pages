@@ -91,8 +91,20 @@ Weather
 Christmas Season
 
 :bell:
+:bell:
+:bell:
+:bell:
+:santa:
+:santa:
+:santa:
 :santa:
 :snowman:
+:snowman:
+:snowman:
+:snowman:
+:christmas_tree:
+:christmas_tree:
+:christmas_tree:
 :christmas_tree:
 
 
