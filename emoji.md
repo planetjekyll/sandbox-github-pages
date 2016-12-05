@@ -67,8 +67,13 @@ See no evil, hear no evil, speak no evil.
 
 Earth & Moon
 
+```
 :earth_americas:
-:earth:
+:earth_africa:
+:earth_asia:
+```
+
+:earth_americas:
 :earth_africa:
 :earth_asia:
 
@@ -93,6 +98,13 @@ Earth & Moon
 :waning_crescent_moon:
 
 Weather
+
+```
+:sunny:
+:partly_sunny:
+:cloud:
+:snowflake:
+```
 
 :sunny:
 :partly_sunny:
