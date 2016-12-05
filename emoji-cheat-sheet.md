@@ -2,7 +2,7 @@
 title: Emoji Cheat Sheet
 ---
 
-# {{ page.title }}  v0.11
+# {{ page.title }}  v0.12
 
 
 {% for cat_hash in site.data.emojis %}
