@@ -2,11 +2,16 @@
 title: Emoji Cheat Sheet
 ---
 
+# {{ page.title }}
+
 
 {% for cat_hash in site.data.emojis %}
 
-{{ cat_hash[0] }}
+## {{ cat_hash[0] }}
 
-{{ cat_hash[1] | jsonifiy }}
+{% for emoji in cat_hash %}
+`:{{emoji}}:` :{{emoji}}: 
+{% endfor %}
 
 {% endfor %}
+
