@@ -3,4 +3,5 @@
 ## add all white-listed gems here
 
 gems:
-  - jekyll-gist
+- jekyll-gist
+- jemoji
