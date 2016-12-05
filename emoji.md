@@ -11,7 +11,7 @@ Reference:
 - :+1: `:+1:`
 
 
-Classics:
+Classic Smileys
 
 :simple_smile:
 :smile:
