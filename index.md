@@ -15,6 +15,11 @@ title: Welcome
 - [site.github More Examples](github_ii)
 
 
+## Emoji
+
+- [Emoji Examples](emoji)
+
+
 ### Debug
 
 - [Dump Settings](debug)
