@@ -9,7 +9,7 @@ title: Emoji Cheat Sheet
 
 ## {{ cat_hash[0] }}
 
-{% for emoji in cat_hash %}
+{% for emoji in cat_hash[1] %}
 `:{{emoji}}:` :{{emoji}}: 
 {% endfor %}
 
