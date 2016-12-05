@@ -14,12 +14,12 @@ Reference:
 
 To be or not be, that is the question.
 
-:heonybee:
-:heonybee:
+:honeybee:
+:honeybee:
 :arrows_counterclockwise:
 :no_entry_sign:
-:heonybee:
-:heonybee:
+:honeybee:
+:honeybee:
 :arrow_right:
 :question:
 
