@@ -13,7 +13,6 @@ Reference:
 
 Classics:
 
-
 :simple_smile:
 :smile:
 :smiley:
@@ -25,8 +24,9 @@ Classics:
 :sleeping:
 :sunglasses:
 :cry:
-:wink:      
-:confused:  
+:sob:
+:wink:
+:confused:
 :unamused:
 :angry:
 :rage:
@@ -34,6 +34,12 @@ Classics:
 :smiling_imp:
 
 
+
+See no evil, hear no evil, speak no evil.
+
+:see_no_evil:
+:hear_no_evil:
+:speak_no_evil:
 
 
 
@@ -45,23 +51,23 @@ Classics:
 :earth_asia:
 
 :new_moon:
-:first_quarter_moon:
-:waning_crescent_moon:
-:waning_gibbous_moon:
 :waxing_crescent_moon:
+:first_quarter_moon:
 :waxing_gibbous_moon:
-:last_quarter_moon:
 :full_moon:
+:waning_gibbous_moon:
+:last_quarter_moon:
+:waning_crescent_moon:
 
 
 :sunny:
-:partly_sunny
-:cloud
+:partly_sunny:
+:cloud:
 :snowflake:
 
 
 
-
+Christmas Season
 
 :bell:
 :bell:
@@ -76,6 +82,7 @@ Classics:
 :santa:
 :santa:
 :santa:
+:santa:
 
 
 :snowman:
@@ -83,8 +90,9 @@ Classics:
 :snowman:
 :snowman:
 :snowman:
+:snowman:
 
-
+:christmas_tree:
 :christmas_tree:
 :christmas_tree:
 :christmas_tree:
@@ -103,13 +111,6 @@ To be or not be, that is the question.
 :honeybee:
 :arrow_right:
 :question:
-
-
-See no evil, hear no evil, speak no evil.
-
-:see_no_evil:
-:hear_no_evil:
-:speak_no_evil:
 
 
 Les Miserables
