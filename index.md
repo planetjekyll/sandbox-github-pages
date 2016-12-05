@@ -18,6 +18,7 @@ title: Welcome
 ## Emoji
 
 - [Emoji Examples](emoji)
+- [Emoji Cheat Sheet](emoji-cheat-sheet)
 
 
 ### Debug
